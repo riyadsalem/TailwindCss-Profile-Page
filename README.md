@@ -1,1 +1,1 @@
-# TailwindCss |-> ['ProfilePage']
+# TailwindCss |-> ['SingleProfilePage']
